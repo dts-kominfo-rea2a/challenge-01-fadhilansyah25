@@ -76,7 +76,7 @@ const firstUser = {
   age: 17,
   email: "monica@dingdong.com",
   favoriteColor: [...monicaFavoriteColor],
-  isHavaPet: "Yes",
+  isHavePet: "Yes",
   education: [...monicaEducation],
   favoriteRestaurant: [...monicaFavoriteRestaurant],
 };
@@ -87,7 +87,7 @@ const secondUser = {
   age: 23,
   email: "wendy@dingdong.com",
   favoriteColor: [...wendyFavoriteColor],
-  isHavaPet: "No",
+  isHavePet: "No",
   education: [...wendyEducation],
   favoriteRestaurant: [...wendyFavoriteRestaurant],
 };
